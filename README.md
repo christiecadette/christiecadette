@@ -6,17 +6,15 @@
 Welcome to my GitHub! I'm a CS student who loves reading, writing, design--and always has Spotify on in the background.
 
 I'm currently working on:
-- Finding a fulfilling summer engagement
-- A portfolio
+- My portfolio
+- Personal project (details forthcoming!)
 
 I'm currently learning:
 - Spanish
-- Calculus
+- React, Express.js, Node.js
 
 I'm curious about:
-- Open-source projects
-- Front-end dev frameworks
-- UI/UX design & research
+- MongoDB
 
 
 <!--
