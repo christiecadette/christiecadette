@@ -6,14 +6,13 @@
 Welcome to my GitHub! I'm a CS student who loves reading, writing, design--and always has Spotify on in the background.
 
 I'm currently working on:
-- My portfolio
-- Personal project (details forthcoming!)
+- Finishing up this semester!
 
 I'm currently learning:
 - Spanish
-- React, Express.js, Node.js
 
 I'm curious about:
+- React, Express.js, Node.js
 - MongoDB
 
 
